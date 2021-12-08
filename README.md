@@ -1,6 +1,6 @@
 # sfml-example
 
-Simple project which uses makes shapes from a file and draws them on the screen.
+Simple project which creates shapes from a config file and draws them on the screen.
 
 
 
